@@ -6,4 +6,4 @@ Reto de freecodecamp.
 
 ## Despliegue 📦
 
-[Drum Machine](https://jhon-h.github.io/drum-machine)
+[Drum Machine](https://jhon-h.github.io/drum-machine/)
